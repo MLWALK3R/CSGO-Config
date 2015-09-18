@@ -1,9 +1,12 @@
-CSGO-Config
-===========
+**Counter-Strike: Global Offensive Configuration Settings**
 
-My CSGO config.
+Mouse settings
 
-DPi=850 Poll=1000Hz
+###### DPI=850
+######Polling rate=1000Hz
+
+*Launch Options*
 
 ```
--freq 144 -tickrate 128 -novid -noforcemparms -noforcemspd -noforcemaccel -threads 8 +exec autoexec.cfg +mat_vignette_enable 0
+-freq 144 -tickrate 128 -novid -threads 8 +exec autoexec.cfg 
+```
