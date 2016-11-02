@@ -1,6 +1,6 @@
 **Counter-Strike: Global Offensive Configuration Settings**
 
-Mouse settings
+*Mouse settings*
 
 ###### DPI=700
 ######Polling rate=1000Hz
