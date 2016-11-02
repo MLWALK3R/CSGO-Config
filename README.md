@@ -2,11 +2,11 @@
 
 Mouse settings
 
-###### DPI=850
+###### DPI=700
 ######Polling rate=1000Hz
 
 *Launch Options*
 
 ```
--freq 144 -tickrate 128 -novid -threads 8 +exec autoexec.cfg 
+-freq 144 -tickrate 128 -novid -threads 8 -high -nojoy +exec autoexec.cfg 
 ```
